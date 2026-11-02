@@ -41,7 +41,6 @@ Overturn rates are computed as total overturns divided by total challenges, not 
 - Rates for batters with fewer than 10 challenges ranged from 0% to 100%, so the notebook ranks only batters with at least 10.
 - These totals line up with MLB.com's published analysis of the same season (about 45% for batters, nearly 55% for fielders and about 50% overall).
 
-![Overturn rate by who challenged](images/overturn_by_role.png)
 
 ## Limitations
 
